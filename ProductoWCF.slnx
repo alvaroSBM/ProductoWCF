@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProductoWCF/ProductoWCF.csproj" Id="926c1e8e-5cf0-4798-936d-8a261db74541" />
+  <Project Path="TestClient/TestClient.csproj" Id="037b1ccc-4b0c-4e28-b05a-2f6c7012e3b5">
+    <BuildDependency Project="ProductoWCF/ProductoWCF.csproj" />
+  </Project>
+</Solution>
